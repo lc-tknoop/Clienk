@@ -141,6 +141,9 @@ partners:
     - logo: /assets/img/partners/salesforce-logo.webp
       link: https://salesforce.com
 
+    - logo: /assets/img/partners/zendesk-logo.svg
+      link: https://zendesk.com
+
     - logo: /assets/img/partners/partners-6.png
       link: https://it-consultis.com/
 
