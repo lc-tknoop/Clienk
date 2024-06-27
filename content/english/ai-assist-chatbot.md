@@ -22,6 +22,7 @@ tags:
     Line,
     COPC,
     CX,
+    Yi-Large,
   ]
 
 #HERO SECTION
@@ -42,7 +43,7 @@ details:
   items:
     - right: true #true or false
       title: POWER YOUR CHATBOTS WITH THE POWER OF LANGUAGE MODELS AI
-      content: "Power your conversations with large language models like ChatGPT, PaLM 2 based AI-powered Virtual Customer Care & Sales Assistants. It is easy, we do it all the time!"
+      content: "Power your conversations with large language models like ChatGPT, Yi-Large based AI-powered Virtual Customer Care & Sales Assistants. It is easy, we do it all the time!"
       image: /assets/img/enhance-agents-with-power-of-ai.svg
       color: pink-color #blue-color, pink-color, orange-color,
 

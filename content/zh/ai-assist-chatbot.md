@@ -46,7 +46,7 @@ details:
   items:
     - right: true #true or false
       title: 使用语言模型人工智能强化您的聊天机器人
-      content: "使用像ChatGPT、PaLM 2、腾讯或百度这样的大型语言模型，赋能虚拟客户服务和销售助手，强化您的对话。这非常简单，我们经常这样做！"
+      content: "使用像ChatGPT、Yi-Large、腾讯或百度这样的大型语言模型，赋能虚拟客户服务和销售助手，强化您的对话。这非常简单，我们经常这样做！"
       image: /assets/img/enhance-agents-with-power-of-ai.svg
       color: pink-color #blue-color, pink-color, orange-color,
 
